@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dclapp\Desktop\dan_projects\fast_gicp\src\fast_gicp\cuda\fast_vgicp_cuda.cu">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dclapp\Desktop\dan_projects\fast_gicp\src\fast_gicp\cuda\brute_force_knn.cu">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dclapp\Desktop\dan_projects\fast_gicp\src\fast_gicp\cuda\covariance_estimation.cu">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dclapp\Desktop\dan_projects\fast_gicp\src\fast_gicp\cuda\covariance_estimation_rbf.cu">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dclapp\Desktop\dan_projects\fast_gicp\src\fast_gicp\cuda\covariance_regularization.cu">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dclapp\Desktop\dan_projects\fast_gicp\src\fast_gicp\cuda\gaussian_voxelmap.cu">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dclapp\Desktop\dan_projects\fast_gicp\src\fast_gicp\cuda\find_voxel_correspondences.cu">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dclapp\Desktop\dan_projects\fast_gicp\src\fast_gicp\cuda\compute_derivatives.cu">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dclapp\Desktop\dan_projects\fast_gicp\src\fast_gicp\cuda\compute_mahalanobis.cu">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dclapp\Desktop\dan_projects\fast_gicp\src\fast_gicp\cuda\ndt_cuda.cu">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dclapp\Desktop\dan_projects\fast_gicp\src\fast_gicp\cuda\ndt_compute_derivatives.cu">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dclapp\Desktop\dan_projects\fast_gicp\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="C:\Users\dclapp\Desktop\dan_projects\fast_gicp\CMakeFiles\fast_vgicp_cuda.dir\src\fast_gicp\cuda\$(Configuration)\fast_vgicp_cuda_generated_fast_vgicp_cuda.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="C:\Users\dclapp\Desktop\dan_projects\fast_gicp\CMakeFiles\fast_vgicp_cuda.dir\src\fast_gicp\cuda\$(Configuration)\fast_vgicp_cuda_generated_brute_force_knn.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="C:\Users\dclapp\Desktop\dan_projects\fast_gicp\CMakeFiles\fast_vgicp_cuda.dir\src\fast_gicp\cuda\$(Configuration)\fast_vgicp_cuda_generated_covariance_estimation.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="C:\Users\dclapp\Desktop\dan_projects\fast_gicp\CMakeFiles\fast_vgicp_cuda.dir\src\fast_gicp\cuda\$(Configuration)\fast_vgicp_cuda_generated_covariance_estimation_rbf.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="C:\Users\dclapp\Desktop\dan_projects\fast_gicp\CMakeFiles\fast_vgicp_cuda.dir\src\fast_gicp\cuda\$(Configuration)\fast_vgicp_cuda_generated_covariance_regularization.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="C:\Users\dclapp\Desktop\dan_projects\fast_gicp\CMakeFiles\fast_vgicp_cuda.dir\src\fast_gicp\cuda\$(Configuration)\fast_vgicp_cuda_generated_gaussian_voxelmap.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="C:\Users\dclapp\Desktop\dan_projects\fast_gicp\CMakeFiles\fast_vgicp_cuda.dir\src\fast_gicp\cuda\$(Configuration)\fast_vgicp_cuda_generated_find_voxel_correspondences.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="C:\Users\dclapp\Desktop\dan_projects\fast_gicp\CMakeFiles\fast_vgicp_cuda.dir\src\fast_gicp\cuda\$(Configuration)\fast_vgicp_cuda_generated_compute_derivatives.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="C:\Users\dclapp\Desktop\dan_projects\fast_gicp\CMakeFiles\fast_vgicp_cuda.dir\src\fast_gicp\cuda\$(Configuration)\fast_vgicp_cuda_generated_compute_mahalanobis.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="C:\Users\dclapp\Desktop\dan_projects\fast_gicp\CMakeFiles\fast_vgicp_cuda.dir\src\fast_gicp\cuda\$(Configuration)\fast_vgicp_cuda_generated_ndt_cuda.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="C:\Users\dclapp\Desktop\dan_projects\fast_gicp\CMakeFiles\fast_vgicp_cuda.dir\src\fast_gicp\cuda\$(Configuration)\fast_vgicp_cuda_generated_ndt_compute_derivatives.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Object Files">
+      <UniqueIdentifier>{0E5988EA-B321-3226-899D-1AF26621B644}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0D8D978E-6C0E-3FD1-9974-60A7CACD7902}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

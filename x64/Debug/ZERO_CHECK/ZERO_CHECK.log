@@ -1,0 +1,66 @@
+﻿  Checking Build System
+  CMake is re-running because C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/generate.stamp is out-of-date.
+    the file 'C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeLists.txt'
+    is newer than 'C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/generate.stamp.depend'
+    result='-1'
+  -- Selecting Windows SDK version 10.0.22000.0 to target Windows 10.0.19044.
+  CMake Warning (dev) at CMakeLists.txt:19 (find_package):
+    Policy CMP0074 is not set: find_package uses <PackageName>_ROOT variables.
+    Run "cmake --help-policy CMP0074" for policy details.  Use the cmake_policy
+    command to set the policy and suppress this warning.
+  
+    Environment variable PCL_ROOT is set to:
+  
+      C:\Program Files\PCL 1.13.0
+  
+    For compatibility, CMake is ignoring the variable.
+  This warning is for project developers.  Use -Wno-dev to suppress it.
+  
+  -- Eigen found (include: C:/Program Files/PCL 1.13.0/3rdParty/Eigen/eigen3, version: 3.4.0)
+  -- FLANN found (include: C:/Program Files/PCL 1.13.0/3rdParty/FLANN/include, lib: C:/Program Files/PCL 1.13.0/3rdParty/FLANN/lib/flann_cpp_s.lib)
+  -- OpenNI2 found (version: 2.2.0.33, include: C:/Program Files/OpenNI2/Include, lib: C:/Program Files/OpenNI2/Lib/OpenNI2.lib)
+  -- Eigen found (include: C:/Program Files/PCL 1.13.0/3rdParty/Eigen/eigen3, version: 3.4.0)
+  -- OpenNI2 found (version: 2.2.0.33, include: C:/Program Files/OpenNI2/Include, lib: C:/Program Files/OpenNI2/Lib/OpenNI2.lib)
+  -- Could NOT find Qhull (missing: QHULL_INCLUDE_DIR) 
+  ** WARNING ** surface features related to qhull will be disabled
+  -- looking for PCL_COMMON
+  -- looking for PCL_KDTREE
+  -- looking for PCL_OCTREE
+  -- looking for PCL_SEARCH
+  -- looking for PCL_SAMPLE_CONSENSUS
+  -- looking for PCL_FILTERS
+  -- looking for PCL_2D
+  -- looking for PCL_GEOMETRY
+  -- looking for PCL_IO
+  -- looking for PCL_FEATURES
+  -- looking for PCL_ML
+  -- looking for PCL_SEGMENTATION
+  -- looking for PCL_VISUALIZATION
+  -- looking for PCL_SURFACE
+  -- looking for PCL_REGISTRATION
+  -- looking for PCL_KEYPOINTS
+  -- looking for PCL_TRACKING
+  -- looking for PCL_RECOGNITION
+  -- looking for PCL_STEREO
+  -- looking for PCL_OUTOFCORE
+  -- looking for PCL_PEOPLE
+  CMake Error at CMakeLists.txt:20 (find_package):
+    By not providing "FindEigen3.cmake" in CMAKE_MODULE_PATH this project has
+    asked CMake to find a package configuration file provided by "Eigen3", but
+    CMake did not find one.
+  
+    Could not find a package configuration file provided by "Eigen3" with any
+    of the following names:
+  
+      Eigen3Config.cmake
+      eigen3-config.cmake
+  
+    Add the installation prefix of "Eigen3" to CMAKE_PREFIX_PATH or set
+    "Eigen3_DIR" to a directory containing one of the above files.  If "Eigen3"
+    provides a separate development package or SDK, be sure it has been
+    installed.
+  
+  
+  -- Configuring incomplete, errors occurred!
+  CMake Configure step failed.  Build files cannot be regenerated correctly.  Attempting to stop IDE build.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(247,5): error MSB8066: Custom build for 'C:\Users\dclapp\Desktop\dan_projects\fast_gicp\CMakeFiles\0c91ed42e53681949e6672c1b7ec84d2\generate.stamp.rule' exited with code 1.

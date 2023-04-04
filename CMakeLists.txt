@@ -14,6 +14,7 @@ else()
 endif()
 
 set(CMAKE_BUILD_TYPE "Release")
+list(APPEND CMAKE_PREFIX_PATH "C:/Program Files/Eigen3/cmake")
 
 find_package(PCL REQUIRED)
 find_package(Eigen3 REQUIRED)

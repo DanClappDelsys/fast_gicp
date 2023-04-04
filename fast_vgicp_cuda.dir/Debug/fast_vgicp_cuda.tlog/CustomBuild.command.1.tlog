@@ -1,0 +1,186 @@
+^C:\USERS\DCLAPP\DESKTOP\DAN_PROJECTS\FAST_GICP\SRC\FAST_GICP\CUDA\FAST_VGICP_CUDA.CU
+setlocal
+cd C:\Users\dclapp\Desktop\dan_projects\fast_gicp\CMakeFiles\fast_vgicp_cuda.dir\src\fast_gicp\cuda
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -D verbose:BOOL=OFF -D "CCBIN:PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools/MSVC/14.33.31629/bin/Hostx64/x64" -D build_configuration:STRING=Debug -D generated_file:STRING=C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug/fast_vgicp_cuda_generated_fast_vgicp_cuda.cu.obj -D generated_cubin_file:STRING=C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug/fast_vgicp_cuda_generated_fast_vgicp_cuda.cu.obj.cubin.txt -P C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/fast_vgicp_cuda_generated_fast_vgicp_cuda.cu.obj.Debug.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DCLAPP\DESKTOP\DAN_PROJECTS\FAST_GICP\SRC\FAST_GICP\CUDA\BRUTE_FORCE_KNN.CU
+setlocal
+cd C:\Users\dclapp\Desktop\dan_projects\fast_gicp\CMakeFiles\fast_vgicp_cuda.dir\src\fast_gicp\cuda
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -D verbose:BOOL=OFF -D "CCBIN:PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools/MSVC/14.33.31629/bin/Hostx64/x64" -D build_configuration:STRING=Debug -D generated_file:STRING=C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug/fast_vgicp_cuda_generated_brute_force_knn.cu.obj -D generated_cubin_file:STRING=C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug/fast_vgicp_cuda_generated_brute_force_knn.cu.obj.cubin.txt -P C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/fast_vgicp_cuda_generated_brute_force_knn.cu.obj.Debug.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DCLAPP\DESKTOP\DAN_PROJECTS\FAST_GICP\SRC\FAST_GICP\CUDA\COVARIANCE_ESTIMATION.CU
+setlocal
+cd C:\Users\dclapp\Desktop\dan_projects\fast_gicp\CMakeFiles\fast_vgicp_cuda.dir\src\fast_gicp\cuda
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -D verbose:BOOL=OFF -D "CCBIN:PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools/MSVC/14.33.31629/bin/Hostx64/x64" -D build_configuration:STRING=Debug -D generated_file:STRING=C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug/fast_vgicp_cuda_generated_covariance_estimation.cu.obj -D generated_cubin_file:STRING=C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug/fast_vgicp_cuda_generated_covariance_estimation.cu.obj.cubin.txt -P C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/fast_vgicp_cuda_generated_covariance_estimation.cu.obj.Debug.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DCLAPP\DESKTOP\DAN_PROJECTS\FAST_GICP\SRC\FAST_GICP\CUDA\COVARIANCE_ESTIMATION_RBF.CU
+setlocal
+cd C:\Users\dclapp\Desktop\dan_projects\fast_gicp\CMakeFiles\fast_vgicp_cuda.dir\src\fast_gicp\cuda
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -D verbose:BOOL=OFF -D "CCBIN:PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools/MSVC/14.33.31629/bin/Hostx64/x64" -D build_configuration:STRING=Debug -D generated_file:STRING=C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug/fast_vgicp_cuda_generated_covariance_estimation_rbf.cu.obj -D generated_cubin_file:STRING=C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug/fast_vgicp_cuda_generated_covariance_estimation_rbf.cu.obj.cubin.txt -P C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/fast_vgicp_cuda_generated_covariance_estimation_rbf.cu.obj.Debug.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DCLAPP\DESKTOP\DAN_PROJECTS\FAST_GICP\SRC\FAST_GICP\CUDA\COVARIANCE_REGULARIZATION.CU
+setlocal
+cd C:\Users\dclapp\Desktop\dan_projects\fast_gicp\CMakeFiles\fast_vgicp_cuda.dir\src\fast_gicp\cuda
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -D verbose:BOOL=OFF -D "CCBIN:PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools/MSVC/14.33.31629/bin/Hostx64/x64" -D build_configuration:STRING=Debug -D generated_file:STRING=C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug/fast_vgicp_cuda_generated_covariance_regularization.cu.obj -D generated_cubin_file:STRING=C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug/fast_vgicp_cuda_generated_covariance_regularization.cu.obj.cubin.txt -P C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/fast_vgicp_cuda_generated_covariance_regularization.cu.obj.Debug.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DCLAPP\DESKTOP\DAN_PROJECTS\FAST_GICP\SRC\FAST_GICP\CUDA\GAUSSIAN_VOXELMAP.CU
+setlocal
+cd C:\Users\dclapp\Desktop\dan_projects\fast_gicp\CMakeFiles\fast_vgicp_cuda.dir\src\fast_gicp\cuda
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -D verbose:BOOL=OFF -D "CCBIN:PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools/MSVC/14.33.31629/bin/Hostx64/x64" -D build_configuration:STRING=Debug -D generated_file:STRING=C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug/fast_vgicp_cuda_generated_gaussian_voxelmap.cu.obj -D generated_cubin_file:STRING=C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug/fast_vgicp_cuda_generated_gaussian_voxelmap.cu.obj.cubin.txt -P C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/fast_vgicp_cuda_generated_gaussian_voxelmap.cu.obj.Debug.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DCLAPP\DESKTOP\DAN_PROJECTS\FAST_GICP\SRC\FAST_GICP\CUDA\FIND_VOXEL_CORRESPONDENCES.CU
+setlocal
+cd C:\Users\dclapp\Desktop\dan_projects\fast_gicp\CMakeFiles\fast_vgicp_cuda.dir\src\fast_gicp\cuda
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -D verbose:BOOL=OFF -D "CCBIN:PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools/MSVC/14.33.31629/bin/Hostx64/x64" -D build_configuration:STRING=Debug -D generated_file:STRING=C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug/fast_vgicp_cuda_generated_find_voxel_correspondences.cu.obj -D generated_cubin_file:STRING=C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug/fast_vgicp_cuda_generated_find_voxel_correspondences.cu.obj.cubin.txt -P C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/fast_vgicp_cuda_generated_find_voxel_correspondences.cu.obj.Debug.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DCLAPP\DESKTOP\DAN_PROJECTS\FAST_GICP\SRC\FAST_GICP\CUDA\COMPUTE_DERIVATIVES.CU
+setlocal
+cd C:\Users\dclapp\Desktop\dan_projects\fast_gicp\CMakeFiles\fast_vgicp_cuda.dir\src\fast_gicp\cuda
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -D verbose:BOOL=OFF -D "CCBIN:PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools/MSVC/14.33.31629/bin/Hostx64/x64" -D build_configuration:STRING=Debug -D generated_file:STRING=C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug/fast_vgicp_cuda_generated_compute_derivatives.cu.obj -D generated_cubin_file:STRING=C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug/fast_vgicp_cuda_generated_compute_derivatives.cu.obj.cubin.txt -P C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/fast_vgicp_cuda_generated_compute_derivatives.cu.obj.Debug.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DCLAPP\DESKTOP\DAN_PROJECTS\FAST_GICP\SRC\FAST_GICP\CUDA\COMPUTE_MAHALANOBIS.CU
+setlocal
+cd C:\Users\dclapp\Desktop\dan_projects\fast_gicp\CMakeFiles\fast_vgicp_cuda.dir\src\fast_gicp\cuda
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -D verbose:BOOL=OFF -D "CCBIN:PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools/MSVC/14.33.31629/bin/Hostx64/x64" -D build_configuration:STRING=Debug -D generated_file:STRING=C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug/fast_vgicp_cuda_generated_compute_mahalanobis.cu.obj -D generated_cubin_file:STRING=C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug/fast_vgicp_cuda_generated_compute_mahalanobis.cu.obj.cubin.txt -P C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/fast_vgicp_cuda_generated_compute_mahalanobis.cu.obj.Debug.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DCLAPP\DESKTOP\DAN_PROJECTS\FAST_GICP\SRC\FAST_GICP\CUDA\NDT_CUDA.CU
+setlocal
+cd C:\Users\dclapp\Desktop\dan_projects\fast_gicp\CMakeFiles\fast_vgicp_cuda.dir\src\fast_gicp\cuda
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -D verbose:BOOL=OFF -D "CCBIN:PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools/MSVC/14.33.31629/bin/Hostx64/x64" -D build_configuration:STRING=Debug -D generated_file:STRING=C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug/fast_vgicp_cuda_generated_ndt_cuda.cu.obj -D generated_cubin_file:STRING=C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug/fast_vgicp_cuda_generated_ndt_cuda.cu.obj.cubin.txt -P C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/fast_vgicp_cuda_generated_ndt_cuda.cu.obj.Debug.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DCLAPP\DESKTOP\DAN_PROJECTS\FAST_GICP\SRC\FAST_GICP\CUDA\NDT_COMPUTE_DERIVATIVES.CU
+setlocal
+cd C:\Users\dclapp\Desktop\dan_projects\fast_gicp\CMakeFiles\fast_vgicp_cuda.dir\src\fast_gicp\cuda
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -D verbose:BOOL=OFF -D "CCBIN:PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools/MSVC/14.33.31629/bin/Hostx64/x64" -D build_configuration:STRING=Debug -D generated_file:STRING=C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug/fast_vgicp_cuda_generated_ndt_compute_derivatives.cu.obj -D generated_cubin_file:STRING=C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/Debug/fast_vgicp_cuda_generated_ndt_compute_derivatives.cu.obj.cubin.txt -P C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/fast_vgicp_cuda.dir/src/fast_gicp/cuda/fast_vgicp_cuda_generated_ndt_compute_derivatives.cu.obj.Debug.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DCLAPP\DESKTOP\DAN_PROJECTS\FAST_GICP\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/dclapp/Desktop/dan_projects/fast_gicp -BC:/Users/dclapp/Desktop/dan_projects/fast_gicp --check-stamp-file C:/Users/dclapp/Desktop/dan_projects/fast_gicp/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
